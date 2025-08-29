@@ -2,7 +2,7 @@
   <img src="https://sobhancv.ir/logo-SAM.png" alt="Sobhan Logo" width="120">
 </p>
 
-<h1 align="center">Sobhan Amini-Moghadam</h1>
+<h1 align="center">Hello! I'm Sobhan Amini 👋</h1>
 <h3 align="center">Backend Developer | Graphic Artist</h3>
 
 ---
