@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://sobhancv.ir/images/logo.png" alt="Sobhan Logo" width="120">
+</p>
 
-<!--
-**sobhan-backend/sobhan-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobhan Amini-Moghadam
 
-Here are some ideas to get you started:
+### Backend Developer | Graphic Artist  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**  
+- PHP · Laravel · MySQL  
+- HTML · CSS · JavaScript  
+- Tailwind CSS · Bootstrap  
+- Photoshop · UI/UX  
+
+---
+
+> "Programming is like art, coding is like creating a masterpiece."  
+> — Steve Jobs
