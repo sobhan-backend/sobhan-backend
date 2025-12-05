@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img src="https://sobhancv.ir/logo-SAM.png" alt="Sobhan Logo" width="120"> -->
-  <img src="sobhan-amini.png" alt="Sobhan Logo" width="120">
+  <img src="https://sobhancv.ir/sobhan-amini.png" alt="Sobhan Logo" width="120">
 </p>
 
 <h1 align="center">Hello! I'm Sobhan Amini 👋</h1>
