@@ -8,10 +8,10 @@ Hello! 👋 I'm
   <h1 style="display: inline; margin: 0; font-size: 1.75em;">
     Sobhan Amini
   </h1>
+  <h3 align="center">
+    Backend Developer • Graphic Artist
+  </h3>
 </div>
-<h3 align="center">
-  Backend Developer • Graphic Artist
-</h3>
 
 <!-- Skills -->
 <h2 align="center" dir="auto">
