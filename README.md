@@ -19,7 +19,8 @@ Hello! 👋 I'm <h1 style="display: inline; margin: 0; font-size: 1.75em;">Sobha
 </a>
 </div>
 
-<p style="margin: 16px 0;" align="center">
+<br><br>
+<p align="center">
   <i>"Programming is like art, coding is like creating a masterpiece."</i><br>
   — Steve Jobs
 </p>
