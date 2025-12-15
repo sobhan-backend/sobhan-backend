@@ -7,10 +7,10 @@
 Hello! 👋 I'm 
   <h1 style="display: inline; margin: 0; font-size: 1.75em;">
     Sobhan Amini
+    <h3 align="center">
+      Backend Developer • Graphic Artist
+    </h3>
   </h1>
-  <h3 align="center">
-    Backend Developer • Graphic Artist
-  </h3>
 </div>
 
 <!-- Skills -->
@@ -37,12 +37,16 @@ Hello! 👋 I'm
   — Steve Jobs
 </p>
 
-<p align="center" dir="auto">Phone:
+<p align="center" dir="auto">
+  Phone:
   <a href="tel:+989100766208" style="color: #C9B79C; text-decoration: none; border-bottom: 1px solid rgba(201,183,156,0.35); transition: all 0.4s; font-size: .8em;">
     +989100766208
   </a>
 </p>
 
-<p align="center" dir="auto">Website:
-    <a target="_blank" href="https://sobhancv.ir" rel="nofollow">www.sobhancv.ir</a>
+<p align="center" dir="auto">
+  Website:
+  <a target="_blank" href="https://sobhancv.ir">
+    www.sobhancv.ir
+  </a>
 </p>
