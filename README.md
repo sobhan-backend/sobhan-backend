@@ -13,11 +13,10 @@ Hello! 👋 I'm
   Backend Developer • Graphic Artist
 </h3>
 
----
-
 <!-- Skills -->
-<div align="center" dir="auto">
-    <h2>Skills</h2>
+<h2 align="center" dir="auto">
+    <strong>Skills</strong>
+      <br><br>
     <a rel="noopener noreferrer nofollow" href="#">
       <img style="max-width: 100%;" src="https://camo.githubusercontent.com/d70703c024cf828c587b6b01fe4a463ef6e74318a06a2d96caa8c1f64847b683/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7068702c6c61726176656c2c6d7973716c267468656d653d6461726b"
         alt="logo Skills"  
@@ -29,11 +28,11 @@ Hello! 👋 I'm
         alt="logo Skills"  
         data-canonical-src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,ps,figma&amp;theme=dark">
     </a>
-</div>
+</h2>
 
 <br>
 <p align="center">
-  <i>"Programming is like art, coding is like creating a masterpiece."</i>
+  <i>"Programming is like art, coding is like creating a masterpiece"</i>
     <br>
   — Steve Jobs
 </p>
