@@ -3,14 +3,15 @@
   <img src="https://sobhancv.ir/sobhan-amini.png" alt="Logo site sobhancv.ir" width="125">
 </p>
 
+<!-- Bio -->
 <div align="center">
 Hello! 👋 I'm 
   <h1 style="display: inline; margin: 0; font-size: 1.75em;">
     Sobhan Amini
-    <h3 align="center">
-      Backend Developer • Graphic Artist
-    </h3>
   </h1>
+  <h3 align="center">
+    Backend Developer • Graphic Artist
+  </h3>
 </div>
 
 <!-- Skills -->
@@ -37,6 +38,7 @@ Hello! 👋 I'm
   — Steve Jobs
 </p>
 
+<!-- Contact -->
 <p align="center" dir="auto">
   Phone:
   <a href="tel:+989100766208" style="color: #C9B79C; text-decoration: none; border-bottom: 1px solid rgba(201,183,156,0.35); transition: all 0.4s; font-size: .8em;">
