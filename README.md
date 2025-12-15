@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-Hello! I'm <h1 style="display: inline; margin: 0; font-size: 1.75em;">Sobhan Amini</h1> 👋
+Hello! 👋 I'm <h1 style="display: inline; margin: 0; font-size: 1.75em;">Sobhan Amini</h1>
 </div>
 <h3 align="center">Backend Developer • Graphic Artist</h3>
 
